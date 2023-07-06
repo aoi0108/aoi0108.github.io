@@ -1,0 +1,22 @@
+header {
+    font-size: 18px;
+    color: magenta;
+    text-align: center;
+}
+
+h2{
+    color: magenta;
+}
+
+h3{
+    color: magenta;
+}
+
+body{
+    background-color: pink;
+}
+
+img{
+    width: 500px;
+    height: 200px;
+}
